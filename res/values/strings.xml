@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_id">230747713793947</string> 
+    <string name="app_name">bloodlife</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1">Need Blood</string>
+    <string name="gimme">Blood type</string>
+    <string name="country">Country</string>
+    <string name="ok">Okay</string>
+    <string name="state">State</string>
+    <string name="city">City/Town</string>
+    <string name="finalemesse"></string>
+    <string name="Hospitals">Hospital</string>
+    <string name="Contact">Contact</string>
+    <string name="button2">Next</string>
+    <string name="msg">Message</string>
+    <string name="button3">I want to thank donor!</string>
+    <string name="title_activity_give_blood">GiveBlood</string>
+
+    <string-array name="planets_array">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string name="title_activity_next">Next</string>
+    <string name="title_activity_finalteste">Finalteste</string>
+    <string name="title_activity_finale">Finale</string>
+
+</resources>
